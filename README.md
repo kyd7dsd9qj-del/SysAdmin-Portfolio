@@ -16,6 +16,6 @@
 - Cisco IOS (имитация в EVE-NG)
 
 ## Файлы проекта
-- [Схема сети](
-- [Конфигурация VLAN](./vlan-config.txt)
-- [Конфигурация NAT](./nat-config.txt)
+- [Схема сети](./network-diagram.png)
+- [Конфигурация VLAN](./vlan-config.txt) 
+- [Конфигурация NAT](./nat-config.txt) 
