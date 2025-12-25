@@ -14,9 +14,18 @@
 - NAT (SNAT/DNAT)
 - Статическая маршрутизация
 - Cisco IOS (имитация в EVE-NG)
+- IP-адресация и планирование подсетей (10.10.0.0/16)
+  
+- Структура сети
+
+· Главный офис (HQ): IT (VLAN 10), Management (VLAN 20), HQ-Servers (VLAN 50)
+· Даркстор: Logistics (VLAN 30), Storage (VLAN 40), DS-Servers (VLAN 60)
+· Выделенный канал: 192.168.10.0/29 и 192.168.20.0/29
+· Публичные адреса: 55.55.55.101/30, 55.55.55.105/30
 
 ## Файлы проекта
 - [Схема сети](./network-diagram.png)
 - [Таблица маршрутов R-Darkstore](./routing-darkstore.png)
 - [Таблица маршрутов R-HQ (главный офис)](./routing-hq.png)
 - [Таблица маршрутов WAN-маршрутизатора](./routing-wan.png)
+- [Проверка связности (ping)](./ping_test.png)  
