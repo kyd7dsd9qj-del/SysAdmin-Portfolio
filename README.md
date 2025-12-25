@@ -17,5 +17,6 @@
 
 ## Файлы проекта
 - [Схема сети](./network-diagram.png)
-- [Конфигурация VLAN](./vlan-config.txt) 
-- [Конфигурация NAT](./nat-config.txt) 
+- [Таблица маршрутов R-Darkstore](./routing-darkstore.png)
+- [Таблица маршрутов R-HQ (главный офис)](./routing-hq.png)
+- [Таблица маршрутов WAN-маршрутизатора](./routing-wan.png)
