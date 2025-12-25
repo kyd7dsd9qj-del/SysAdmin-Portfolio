@@ -28,4 +28,4 @@
 - [Таблица маршрутов R-Darkstore](./routing-darkstore.png)
 - [Таблица маршрутов R-HQ (главный офис)](./routing-hq.png)
 - [Таблица маршрутов WAN-маршрутизатора](./routing-wan.png)
-- [Проверка связности (ping)](./ping_test.png)  
+- [Проверка связности (ping)](./ping-test.png)  
